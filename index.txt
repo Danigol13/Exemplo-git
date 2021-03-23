@@ -1,10 +1,13 @@
 <!Doctype html>
 <!-- Doctype é um DTD -->
-<!-- Document type Definition -->
-<teste pra ver se da merda>
-<Fiz um novo teste>
-<parmera campeao da libertadores>
-<teste de comentario>
-<sera que agora vai>
-<Deu certo Deus é bom e o capiroto é ruim>
-<teste pelo VS direto again>
+<html>
+    <head>
+         <meta charset="UTF-8">
+         <title>EXEMPLO</title>
+    </head>
+    <body>
+        <h1>Bem vindos!</hl>
+        <h2>1TDSS-2021</h2>
+        <h3>LINS</h3>
+    </body>
+</html>   
