@@ -7,3 +7,4 @@
 <teste de comentario>
 <sera que agora vai>
 <Deu certo Deus é bom e o capiroto é ruim>
+<teste pelo VS direto again>
