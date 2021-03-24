@@ -11,5 +11,9 @@
         <h3>LINS</h3>
     </body>
 </html>   
+<<<<<<< HEAD
 teste 1 dessa porra de branch
 SEGUNDO teste da branch pra ver se da bom mesmo!
+=======
+teste pela 3 (TERCEIRA) branch criada!!!
+>>>>>>> novaBranch
